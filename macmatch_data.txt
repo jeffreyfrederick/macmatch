@@ -1,0 +1,823 @@
+==== A1369 ====
+Apple A1369 13" Display Assembly
+
+661-5732
+Silver
+- MacBookAir3,2 Late 2010: MC503LL/A (1.86 GHz Core 2 Duo)
+- MacBookAir3,2 Late 2010: MC504LL/A (1.86 GHz Core 2 Duo)
+- MacBookAir3,2 Late 2010: MC905LL/A (2.13 GHz Core 2 Duo)
+
+661-6056
+Silver
+- MacBookAir4,2 Mid 2011: MC965LL/A (1.7 GHz Core i5)
+- MacBookAir4,2 Mid 2011: MC966LL/A (1.7 GHz Core i5)
+- MacBookAir4,2 Mid 2011: MD226LL/A (1.8 GHz Core i7)
+
+==== A1398 ====
+Apple A1398 15.4" Display Assembly
+
+661-02532
+Silver
+- MacBookPro11,4 Mid 2015 (IG): MJLQ2LL/A (2.2 GHz Core i7)
+- MacBookPro11,4 Mid 2015 (IG): MJLQ2LL/A BTO (2.5 GHz Core i7)
+- MacBookPro11,4 Mid 2015 (IG): MJLQ2LL/A BTO (2.8 GHz Core i7)
+- MacBookPro11,5 Mid 2015 (DG): MJLT2LL/A (2.5 GHz Core i7)
+- MacBookPro11,5 Mid 2015 (DG): MJLT2LL/A BTO (2.8 GHz Core i7)
+
+661-8310
+Silver
+- MacBookPro11,2 Late 2013 (IG): ME293LL/A (2.0 Core i7)
+- MacBookPro11,2 Late 2013 (IG): ME293LL/A (2.3 Core i7)
+- MacBookPro11,2 Late 2013 (IG): ME293LL/A (2.6 Core i7)
+- MacBookPro11,2 Mid 2014 (IG): MGXA2LL/A (2.2 Core i7)
+- MacBookPro11,2 Mid 2014 (IG): MGXA2LL/A (2.5 Core i7)
+- MacBookPro11,2 Mid 2014 (IG): MGXA2LL/A (2.8 Core i7)
+- MacBookPro11,3 Late 2013 (DG): ME294LL/A (2.3 Core i7)
+- MacBookPro11,3 Late 2013 (DG): ME294LL/A (2.6 Core i7)
+- MacBookPro11,3 Mid 2014 (DG): MGXC2LL/A (2.5 Core i7)
+- MacBookPro11,3 Mid 2014 (DG): MGXC2LL/A (2.8 Core i7)
+
+661-6529
+Silver
+- MacBookPro10,1 Retina Mid 2012: MC975LL/A (2.3 Core i7)
+- MacBookPro10,1 Retina Mid 2012: MC976LL/A (2.6 Core i7)
+- MacBookPro10,1 Retina Mid 2012: MD831LL/A (2.7 Core i7)
+
+==== A1425 ====
+Apple A1425 13" Display Assembly
+
+661-7014
+Silver
+- MacBookPro10,2 Retina Late 2012: MD212LL/A (2.5 GHz i5 or 2.9 GHz i7)
+- MacBookPro10,2 Retina Late 2012: MD213LL/A (2.5 GHz i5 or 2.9 GHz i7)
+- MacBookPro10,2 Early 2013: ME662LL/A (2.6 GHz Core i5)
+- MacBookPro10,2 Early 2013: ME662LL/A (3.0 GHz Core i7)
+
+==== A1465 ====
+Apple A1465 11" Display Assembly
+
+661-6624
+Silver
+- MacBookAir5,1 Mid 2012: MD223LL/A (1.7 GHz Core i5)
+- MacBookAir5,1 Mid 2012: MD224LL/A (1.7 GHz Core i5)
+- MacBookAir5,1 Mid 2012: MD224LL/A (2.0 GHz Core i7)
+
+661-7468
+Silver
+- MacBookAir6,1 Mid 2013: MD711LL/A (1.3 GHz Core i5)
+- MacBookAir6,1 Mid 2013: MD712LL/A (1.3 GHz Core i5)
+- MacBookAir6,1 Mid 2013: MD712LL/A (1.7 GHz Core i7)
+- MacBookAir6,1 Early 2014: MD711LL/B (1.4 GHz Core i5)
+- MacBookAir6,1 Early 2014: MD712LL/B (1.4 GHz Core i5)
+- MacBookAir6,1 Early 2014: MD712LL/B (1.7 GHz Core i7)
+
+661-02345
+Silver
+- MacBookAir7,1 Early 2015: MJVM2LL/A (1.6 GHz Core i5 or 2.2 GHz Core i7)
+- MacBookAir7,1 Early 2015: MJVP2LL/A (1.6 GHz Core i5 or 2.2 GHz Core i7)
+
+==== A1466 ====
+Apple A1466 13" Display Assembly
+
+661-6630
+Silver
+- MacBookAir5,2 Mid 2012: MD231LL/A (1.8 GHz Core i5)
+- MacBookAir5,2 Mid 2012: MD232LL/A (1.8 GHz Core i5)
+- MacBookAir5,2 Mid 2012: MD232LL/A (2.0 GHz Core i7)
+- MacBookAir5,2 Mid 2012: MD846LL/A (2.0 GHz Core i7)
+- MacBookAir5,2 Mid 2012: MD846LL/A (2.0 GHz Core i7)
+
+661-7475
+Silver
+- MacBookAir6,2 Mid 2013: MD760LL/A (1.3 GHz Core i5)
+- MacBookAir6,2 Mid 2013: MD761LL/A (1.3 GHz Core i5)
+- MacBookAir6,2 Mid 2013: MD761LL/A (1.7 GHz Core i7)
+- MacBookAir6,2 Early 2014: MD760LL/B (1.4 GHz Core i5)
+- MacBookAir6,2 Early 2014: MD761LL/B (1.4 GHz Core i5)
+- MacBookAir6,2 Early 2014: MD761LL/B (1.7 GHz Core i7)
+
+661-02397
+Silver
+- MacBookAir7,2 Early 2015: MJVE2LL/A (1.6 GHz Core i5 or 2.2 GHz Core i7)
+- MacBookAir7,2 Early 2015: MJVG2LL/A (1.6 GHz Core i5 or 2.2 GHz Core i7)
+- MacBookAir7,2 Early 2015: MMGF2LL/A (1.6 GHz Core i5 or 2.2 GHz Core i7)
+- MacBookAir7,2 Early 2015: MMGG2LL/A (1.6 GHz Core i5 or 2.2 GHz Core i7)
+- MacBookAir7,2 Mid 2017: MQD42LL/A (1.8 GHz Core i5)
+- MacBookAir7,2 Mid 2017: MQD32LL/A (1.8GHz Core i5)
+
+==== A1502 ====
+Apple A1502 13" Display Assembly
+
+661-8153
+Silver
+- MacBookPro11,1 Late 2013: ME864LL/A (2.4 Core i5)
+- MacBookPro11,1 Late 2013: ME866LL/A (2.6 Core i5)
+- MacBookPro11,1 Late 2013: ME866LL/A (2.8 Core i7)
+- MacBookPro11,1 Mid 2014: MGX72LL/A (2.6 Core i5)
+- MacBookPro11,1 Mid 2014: MGX92LL/A (2.8 Core i5)
+- MacBookPro11,1 Mid 2014: MGX92LL/A (3.0 Core i7)
+
+661-02360
+Silver
+- MacBookPro12,1 Early 2015: MF839LL/A (2.7 GHz Core i5)
+- MacBookPro12,1 Early 2015: MF841LL/A (2.9 GHz Core i5)
+- MacBookPro12,1 Early 2015: MF843LL/A (3.1 GHz Core i7)
+
+==== A1534 ====
+Apple A1534 13" Display Assembly
+
+661-02248
+Gold
+- MacBook8,1 Early 2015 (Gold): MK4M2LL/A (1.1 GHz Core M)
+- MacBook8,1 Early 2015 (Gold): MK4N2LL/A (1.2 GHz or 1.3 GHz Core M)
+
+661-04745
+Gold
+- MacBook9,1 Early 2016 (Gold): MLHE2LL/A (1.1 GHz Core M3)
+- MacBook9,1 Early 2016 (Gold): MLHF2LL/A (1.2 GHz Core M5)
+- MacBook9,1 Early 2016 (Gold): BTO/CTO (1.3 GHz Core M7)
+
+661-06787
+Gold
+- MacBook10,1 Mid 2017 (Gold): MNYF2LL/A (1.2 GHz Core M3)
+- MacBook10,1 Mid 2017 (Gold):MNYG2LL/A (1.3 GHz Core i5)
+- MacBook10,1 Mid 2017 (Gold): BTO/CTO (1.4 GHz Core i7)
+
+661-04852
+Rose Gold
+- MacBook9,1 Early 2016 (Rose Gold): MMGL2LL/A (1.1 GHz Core M3)
+- MacBook9,1 Early 2016 (Rose Gold): MMGM2LL/A (1.2 GHz Core M5)
+- MacBook9,1 Early 2016 (Rose Gold): BTO/CTO (1.3 GHz Core M7)
+
+661-06788
+Rose Gold
+- MacBook10,1 Mid 2017 (Rose Gold): MNYF2LL/A (1.2 GHz Core M3)
+- MacBook10,1 Mid 2017 (Rose Gold): MNYG2LL/A (1.3 GHz Core i5)
+- MacBook10,1 Mid 2017 (Rose Gold): BTO/CTO (1.4 GHz Core i7)
+
+661-02241, 661-04744, 661-06786
+Silver
+- MacBook8,1 Early 2015 (Silver): MF855LL/A (1.1 GHz Core M)
+- MacBook8,1 Early 2015 (Silver): MF865LL/A (1.2 GHz or 1.3 GHz Core M)
+- MacBook9,1 Early 2016 (Silver): MLHA2LL/A (1.1 GHz Core M3)
+- MacBook9,1 Early 2016 (Silver): MLHC2LL/A (1.2 GHz Core M5)
+- MacBook9,1 Early 2016 (Silver): BTO/CTO (1.3 GHz Core M7)
+- MacBook10,1 Mid 2017 (Silver): MNYF2LL/A (1.2 GHz Core M3)
+- MacBook10,1 Mid 2017 (Silver): MNYG2LL/A (1.3 GHz Core i5)
+- MacBook10,1 Mid 2017 (Silver): BTO/CTO (1.4 GHz Core i7)
+
+661-02266, 661-04746, 661-06785
+Space Gray
+- MacBook8,1 Early 2015 (Space Gray): MJY32LL/A (1.1 GHz Core M)
+- MacBook8,1 Early 2015 (Space Gray): MJY42LL/A (1.2 GHz or 1.3 GHz Core M)
+- MacBook9,1 Early 2016 (Space Gray): MLH72LL/A (1.1 GHz Core M3)
+- MacBook9,1 Early 2016 (Space Gray): MLH82LL/A (1.2 GHz Core M5)
+- MacBook9,1 Early 2016 (Space Gray): BTO/CTO (1.3 GHz Core M7)
+- MacBook10,1 Mid 2017 (Space Gray): MNYG2LL/A (1.3 GHz Core i5)
+- MacBook10,1 Mid 2017 (Space Gray): BTO/CTO (1.4 GHz Core i7)
+
+==== A1706 ====
+Apple A1706 13" Display Assembly
+
+661-05324
+Silver
+- MacBookPro13,2 Late 2016: MLH12LL/A (2.9 GHz Core i5)
+- MacBookPro13,2 Late 2016: MLH12LL/A (3.1 GHz Core i5)
+- MacBookPro13,2 Late 2016: MLH12LL/A (3.3 GHz Core i7)
+
+661-07971
+Silver
+- MacBookPro14,2 Mid 2017: MPXV2LL/A (3.1 GHz Core i5)
+- MacBookPro14,2 Mid 2017: MPXV2LL/A (3.3 GHz Core i5)
+- MacBookPro14,2 Mid 2017: MPXV2LL/A (3.5 GHz Core i7)
+
+661-05323
+Space Gray
+- MacBookPro13,2 Late 2016: MLH12LL/A (2.9 GHz Core i5)
+- MacBookPro13,2 Late 2016: MLH12LL/A (3.1 GHz Core i5)
+- MacBookPro13,2 Late 2016: MLH12LL/A (3.3 GHz Core i7)
+
+661-07970
+Space Gray
+- MacBookPro14,2 Mid 2017: MPXV2LL/A (3.1 GHz Core i5)
+- MacBookPro14,2 Mid 2017: MPXV2LL/A (3.3 GHz Core i5)
+- MacBookPro14,2 Mid 2017: MPXV2LL/A (3.5 GHz Core i7)
+
+==== A1707 ====
+Apple A1707 15" Display Assembly
+
+661-06376
+Silver
+- MacBookPro13,3 Late 2016: MLH32LL/A or MLW72LL/A (2.6 GHz Core i7)
+- MacBookPro13,3 Late 2016: MLH42LL/A or MLW82LL/A (2.7 GHz Core i7)
+- MacBookPro13,3 Late 2016: BTO/CTO (2.9 GHz Core i7)
+
+661-08031
+Silver
+- MacBookPro14,3 Mid 2017: MPTR2LL/A or MPTU2LL/A (2.8 GHz Core i7)
+- MacBookPro14,3 Mid 2017: MPTT2LL/A or MPTV2LL/A (2.9 GHz Core i7)
+- MacBookPro14,3 Mid 2017: BTO/CTO (3.1 GHz Core i7)
+
+661-06375
+Space Gray
+- MacBookPro13,3 Late 2016: MLH32LL/A or MLW72LL/A (2.6 GHz Core i7)
+- MacBookPro13,3 Late 2016: MLH42LL/A or MLW82LL/A (2.7 GHz Core i7)
+- MacBookPro13,3 Late 2016: BTO/CTO (2.9 GHz Core i7)
+
+661-08030
+Space Gray
+- MacBookPro14,3 Mid 2017: MPTR2LL/A or MPTU2LL/A (2.8 GHz Core i7)
+- MacBookPro14,3 Mid 2017: MPTT2LL/A or MPTV2LL/A (2.9 GHz Core i7)
+- MacBookPro14,3 Mid 2017: BTO/CTO (3.1 GHz Core i7)
+
+==== A1932 ====
+Apple A1932 13" Display Assembly
+
+661-09735
+Gold
+- MacBookAir8,1 2018 (Space Gray): MRE82LL/A or MRE92LL/A (1.6 GHz Core i5)
+- MacBookAir8,1 2018 (Silver): MREA2LL/A or MREC2LL/A (1.6 GHz Core i5)
+- MacBookAir8,1 2018 (Gold): MREE2LL/A or MREF2LL/A (1.6 GHz Core i5)
+
+661-12588
+Gold
+- MacBookAir8,2 2019 (Space Gray): MVFH2LL/A or MVFJ2LL/A (1.6 GHz Core i5)
+- MacBookAir8,2 2019 (Silver): MVFK2LL/A or MVFL2LL/A (1.6 GHz Core i5)
+- MacBookAir8,2 2019 (Gold): MVFM2LL/A or MVFN2LL/A (1.6 GHz Core i5)
+
+661-09734
+Silver
+- MacBookAir8,1 2018 (Space Gray): MRE82LL/A or MRE92LL/A (1.6 GHz Core i5)
+- MacBookAir8,1 2018 (Silver): MREA2LL/A or MREC2LL/A (1.6 GHz Core i5)
+- MacBookAir8,1 2018 (Gold): MREE2LL/A or MREF2LL/A (1.6 GHz Core i5)
+
+661-12587
+Silver
+- MacBookAir8,2 2019 (Space Gray): MVFH2LL/A or MVFJ2LL/A (1.6 GHz Core i5)
+- MacBookAir8,2 2019 (Silver): MVFK2LL/A or MVFL2LL/A (1.6 GHz Core i5)
+- MacBookAir8,2 2019 (Gold): MVFM2LL/A or MVFN2LL/A (1.6 GHz Core i5)
+
+661-09733
+Space Gray
+- MacBookAir8,1 2018 (Space Gray): MRE82LL/A or MRE92LL/A (1.6 GHz Core i5)
+- MacBookAir8,1 2018 (Silver): MREA2LL/A or MREC2LL/A (1.6 GHz Core i5)
+- MacBookAir8,1 2018 (Gold): MREE2LL/A or MREF2LL/A (1.6 GHz Core i5)
+
+661-12586
+Space Gray
+- MacBookAir8,2 2019 (Space Gray): MVFH2LL/A or MVFJ2LL/A (1.6 GHz Core i5)
+- MacBookAir8,2 2019 (Silver): MVFK2LL/A or MVFL2LL/A (1.6 GHz Core i5)
+- MacBookAir8,2 2019 (Gold): MVFM2LL/A or MVFN2LL/A (1.6 GHz Core i5)
+
+==== A1989 ====
+Apple A1989 13" Display Assembly
+
+661-10357
+Silver
+- MacBookPro15,2 Mid 2018: MR9Q2LL/A or MR9U2LL/A (2.3 GHz Core i5)
+- MacBookPro15,2 Mid 2018: MR9R2LL/A or MR9V2LL/A (2.3 GHz Core i5)
+- MacBookPro15,2 Mid 2018: BTO/CTO (2.7 GHz Core i7)
+
+661-10037
+Space Gray
+- MacBookPro15,2 Mid 2018: MR9Q2LL/A or MR9U2LL/A (2.3 GHz Core i5)
+- MacBookPro15,2 Mid 2018: MR9R2LL/A or MR9V2LL/A (2.3 GHz Core i5)
+- MacBookPro15,2 Mid 2018: BTO/CTO (2.7 GHz Core i7)
+
+==== A1990 ====
+Apple A1990 15" Display Assembly
+
+661-10356
+Silver
+- MacBookPro15,1 Mid 2018: MR932LL/A or MR962LL/A (2.2 GHz Core i7)
+- MacBookPro15,1 Mid 2018: MR942LL/A or MR972LL/A (2.6 GHz Core i7)
+- MacBookPro15,3 Mid 2018: BTO/CTO (2.6 GHz Core i7)
+- MacBookPro15,3 Mid 2018: BTO/CTO (2.9 GHz Core i9)
+- MacBookPro15,1 Mid 2019: MV902LL/A|MV922LL/A (2.6 GHz Core i7)
+- MacBookPro15,1 Mid 2019: MV912LL/A|MV932LL/A (2.3 GHz Core i9)
+- MacBookPro15,1 Mid 2019: BTO (2.4 GHz Core i9)
+- MacBookPro15,3 Mid 2019: BTO (2.3 GHz Core i9)
+- MacBookPro15,3 Mid 2019: BTO (2.4 GHz Core i9)
+
+661-10356
+Silver
+- MacBookPro15,1 Mid 2018: MR932LL/A or MR962LL/A (2.2 GHz Core i7)
+- MacBookPro15,1 Mid 2018: MR942LL/A or MR972LL/A (2.6 GHz Core i7)
+- MacBookPro15,3 Mid 2018: BTO/CTO (2.6 GHz Core i7)
+- MacBookPro15,3 Mid 2018: BTO/CTO (2.9 GHz Core i9)
+- MacBookPro15,1 Mid 2019: MV902LL/A|MV922LL/A (2.6 GHz Core i7)
+- MacBookPro15,1 Mid 2019: MV912LL/A|MV932LL/A (2.3 GHz Core i9)
+- MacBookPro15,1 Mid 2019: BTO (2.4 GHz Core i9)
+- MacBookPro15,3 Mid 2019: BTO (2.3 GHz Core i9)
+- MacBookPro15,3 Mid 2019: BTO (2.4 GHz Core i9)
+
+661-10355
+Space Gray
+- MacBookPro15,1 Mid 2018: MR932LL/A or MR962LL/A (2.2 GHz Core i7)
+- MacBookPro15,1 Mid 2018: MR942LL/A or MR972LL/A (2.6 GHz Core i7)
+- MacBookPro15,3 Mid 2018: BTO/CTO (2.6 GHz Core i7)
+- MacBookPro15,3 Mid 2018: BTO/CTO (2.9 GHz Core i9)
+- MacBookPro15,1 Mid 2019: MV902LL/A|MV922LL/A (2.6 GHz Core i7)
+- MacBookPro15,1 Mid 2019: MV912LL/A|MV932LL/A (2.3 GHz Core i9)
+- MacBookPro15,1 Mid 2019: BTO (2.4 GHz Core i9)
+- MacBookPro15,3 Mid 2019: BTO (2.3 GHz Core i9)
+- MacBookPro15,3 Mid 2019: BTO (2.4 GHz Core i9)
+
+661-10355
+Space Gray
+- MacBookPro15,1 Mid 2018: MR932LL/A or MR962LL/A (2.2 GHz Core i7)
+- MacBookPro15,1 Mid 2018: MR942LL/A or MR972LL/A (2.6 GHz Core i7)
+- MacBookPro15,3 Mid 2018: BTO/CTO (2.6 GHz Core i7)
+- MacBookPro15,3 Mid 2018: BTO/CTO (2.9 GHz Core i9)
+- MacBookPro15,1 Mid 2019: MV902LL/A|MV922LL/A (2.6 GHz Core i7)
+- MacBookPro15,1 Mid 2019: MV912LL/A|MV932LL/A (2.3 GHz Core i9)
+- MacBookPro15,1 Mid 2019: BTO (2.4 GHz Core i9)
+- MacBookPro15,3 Mid 2019: BTO (2.3 GHz Core i9)
+- MacBookPro15,3 Mid 2019: BTO (2.4 GHz Core i9)
+
+==== A2141 ====
+Apple A2141 16" Display Assembly
+
+661-14201
+Silver
+- MacBookPro16,1 Scissor Keyboard 2019: MVVJ2LL/A (Space Gray, 2.6 GHz Core i7)
+- MacBookPro16,1 Scissor Keyboard 2019: MVVL2LL/A (Silver, 2.6 GHz Core i7)
+- MacBookPro16,1 Scissor Keyboard 2019: MVVK2LL/A (Space Gray, 2.3 GHz Core i9)
+- MacBookPro16,1 Scissor Keyboard 2019: MVVM2LL/A (Silver, 2.3 GHz Core i9)
+- MacBookPro16,1 Scissor Keyboard 2019: BTO (2.4 GHz Core i9)
+
+661-14200
+Space Gray
+- MacBookPro16,1 Scissor Keyboard 2019: MVVJ2LL/A (Space Gray, 2.6 GHz Core i7)
+- MacBookPro16,1 Scissor Keyboard 2019: MVVL2LL/A (Silver, 2.6 GHz Core i7)
+- MacBookPro16,1 Scissor Keyboard 2019: MVVK2LL/A (Space Gray, 2.3 GHz Core i9)
+- MacBookPro16,1 Scissor Keyboard 2019: MVVM2LL/A (Silver, 2.3 GHz Core i9)
+- MacBookPro16,1 Scissor Keyboard 2019: BTO (2.4 GHz Core i9)
+
+==== A2159 ====
+Apple A2159 13" Display Assembly
+
+661-12830
+Silver
+- MacBookPro15,2 Mid 2019: MV962LL/A or MV972LL/A (2.4 GHz Core i5)
+- MacBookPro15,2 Mid 2019: MV992LL/A or MV9A2LL/A (2.4 GHz Core i5)
+- MacBookPro15,2 Mid 2019: MV982LL/A (2.8 GHz Core i7)
+- MacBookPro15,4 Touch Bar, 2 TB 3 2019: MUHN2LL/A or MUHP2LL/A (Space Gray, 1.4 GHz Core i5)
+- MacBookPro15,4 Touch Bar, 2 TB 3 2019: MUHQ2LL/A or MUHR2LL/A (Silver, 1.4 GHz Core i5)
+- MacBookPro15,4 Touch Bar, 2 TB 3 2019: BTO (1.7 GHz Core i7)
+
+661-12829
+Space Gray
+- MacBookPro15,2 Mid 2019: MV962LL/A or MV972LL/A (2.4 GHz Core i5)
+- MacBookPro15,2 Mid 2019: MV992LL/A or MV9A2LL/A (2.4 GHz Core i5)
+- MacBookPro15,2 Mid 2019: MV982LL/A (2.8 GHz Core i7)
+- MacBookPro15,4 Touch Bar, 2 TB 3 2019: MUHN2LL/A or MUHP2LL/A (Space Gray, 1.4 GHz Core i5)
+- MacBookPro15,4 Touch Bar, 2 TB 3 2019: MUHQ2LL/A or MUHR2LL/A (Silver, 1.4 GHz Core i5)
+- MacBookPro15,4 Touch Bar, 2 TB 3 2019: BTO (1.7 GHz Core i7)
+
+==== A2179 ====
+Apple A2179 13" Display Assembly
+
+661-15391
+Gold
+- MacBookAir9,1 Retina 2020: MWTJ2LL/A|MWTK2LL/A|MWTL2LL/A (1.1 GHz Core i3)
+- MacBookAir9,1 Retina 2020: MVH22LL/A|MVH42LL/A|MVH52LL/A (1.1 GHz Core i5)
+- MacBookAir9,1 Retina 2020: BTO (1.2 GHz Core i7)
+
+661-15390
+Silver
+- MacBookAir9,1 Retina 2020: MWTJ2LL/A|MWTK2LL/A|MWTL2LL/A (1.1 GHz Core i3)
+- MacBookAir9,1 Retina 2020: MVH22LL/A|MVH42LL/A|MVH52LL/A (1.1 GHz Core i5)
+- MacBookAir9,1 Retina 2020: BTO (1.2 GHz Core i7)
+
+661-15389
+Space Gray
+- MacBookAir9,1 Retina 2020: MWTJ2LL/A|MWTK2LL/A|MWTL2LL/A (1.1 GHz Core i3)
+- MacBookAir9,1 Retina 2020: MVH22LL/A|MVH42LL/A|MVH52LL/A (1.1 GHz Core i5)
+- MacBookAir9,1 Retina 2020: BTO (1.2 GHz Core i7)
+
+==== A2251 ====
+Apple A2251 13" Display Assembly
+
+661-15733
+Silver
+- MacBookPro16,2 4 TB 3 2020: MWP72LL/A or MWP82LL/A (Silver, 2.0 GHz Core i5)
+- MacBookPro16,2 4 TB 3 2020: MWP42LL/A or MWP52LL/A (Space Gray, 2.0 GHz Core i5)
+- MacBookPro16,2 4 TB 3 2020: BTO (2.3 GHz Core i7)
+- MacBookPro16,3 Touch Bar, 2 TB 3 2020: MXK62LL/A or MXK72LL/A (Silver, 1.4 GHz Core i5)
+- MacBookPro16,3 Touch Bar, 2 TB 3 2020: MXK32LL/A or MXK52LL/A (Space Gray, 1.4 GHz Core i5)
+- MacBookPro16,3 Touch Bar, 2 TB 3 2020: BTO (1.7 GHz Core i7)
+
+661-15732
+Space Gray
+- MacBookPro16,2 4 TB 3 2020: MWP72LL/A or MWP82LL/A (Silver, 2.0 GHz Core i5)
+- MacBookPro16,2 4 TB 3 2020: MWP42LL/A or MWP52LL/A (Space Gray, 2.0 GHz Core i5)
+- MacBookPro16,2 4 TB 3 2020: BTO (2.3 GHz Core i7)
+- MacBookPro16,3 Touch Bar, 2 TB 3 2020: MXK62LL/A or MXK72LL/A (Silver, 1.4 GHz Core i5)
+- MacBookPro16,3 Touch Bar, 2 TB 3 2020: MXK32LL/A or MXK52LL/A (Space Gray, 1.4 GHz Core i5)
+- MacBookPro16,3 Touch Bar, 2 TB 3 2020: BTO (1.7 GHz Core i7)
+
+==== A2289 ====
+Apple A2289 13" Display Assembly
+
+661-15733
+Silver
+- MacBookPro16,2 4 TB 3 2020: MWP72LL/A or MWP82LL/A (Silver, 2.0 GHz Core i5)
+- MacBookPro16,2 4 TB 3 2020: MWP42LL/A or MWP52LL/A (Space Gray, 2.0 GHz Core i5)
+- MacBookPro16,2 4 TB 3 2020: BTO (2.3 GHz Core i7)
+- MacBookPro16,3 Touch Bar, 2 TB 3 2020: MXK62LL/A or MXK72LL/A (Silver, 1.4 GHz Core i5)
+- MacBookPro16,3 Touch Bar, 2 TB 3 2020: MXK32LL/A or MXK52LL/A (Space Gray, 1.4 GHz Core i5)
+- MacBookPro16,3 Touch Bar, 2 TB 3 2020: BTO (1.7 GHz Core i7)
+
+661-15732
+Space Gray
+- MacBookPro16,2 4 TB 3 2020: MWP72LL/A or MWP82LL/A (Silver, 2.0 GHz Core i5)
+- MacBookPro16,2 4 TB 3 2020: MWP42LL/A or MWP52LL/A (Space Gray, 2.0 GHz Core i5)
+- MacBookPro16,2 4 TB 3 2020: BTO (2.3 GHz Core i7)
+- MacBookPro16,3 Touch Bar, 2 TB 3 2020: MXK62LL/A or MXK72LL/A (Silver, 1.4 GHz Core i5)
+- MacBookPro16,3 Touch Bar, 2 TB 3 2020: MXK32LL/A or MXK52LL/A (Space Gray, 1.4 GHz Core i5)
+- MacBookPro16,3 Touch Bar, 2 TB 3 2020: BTO (1.7 GHz Core i7)
+
+==== A2337 ====
+Apple A2337 13" Display Assembly
+
+661-16808
+Gold
+- MacBookAir10,1 M1 2020: MGN53LL/A (Space Gray, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGN83LL/A (Silver, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGN63LL/A (Space Gray, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGN93LL/A (Silver, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGND3LL/A (Gold, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGN73LL/A (Space Gray, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGNA3LL/A (Silver, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGNE3LL/A (Gold, 3.2 GHz Apple M1)
+
+661-16807
+Silver
+- MacBookAir10,1 M1 2020: MGN53LL/A (Space Gray, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGN83LL/A (Silver, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGN63LL/A (Space Gray, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGN93LL/A (Silver, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGND3LL/A (Gold, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGN73LL/A (Space Gray, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGNA3LL/A (Silver, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGNE3LL/A (Gold, 3.2 GHz Apple M1)
+
+661-16806
+Space Gray
+- MacBookAir10,1 M1 2020: MGN53LL/A (Space Gray, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGN83LL/A (Silver, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGN63LL/A (Space Gray, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGN93LL/A (Silver, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGND3LL/A (Gold, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGN73LL/A (Space Gray, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGNA3LL/A (Silver, 3.2 GHz Apple M1)
+- MacBookAir10,1 M1 2020: MGNE3LL/A (Gold, 3.2 GHz Apple M1)
+
+==== A2338 ====
+Apple A2338 13" Display Assembly
+
+661-17549
+Silver
+- MacBookPro17,1 M1 2020: MYD82LL/A (Space Gray, 3.2 GHz Apple M1)
+- MacBookPro17,1 M1 2020: MYDA2LL/A (Silver, 3.2 GHz Apple M1)
+- MacBookPro17,1 M1 2020: MYD92LL/A (Space Gray, 3.2 GHz Apple M1)
+- MacBookPro17,1 M1 2020: MYDC2LL/A (Silver, 3.2 GHz Apple M1)
+- Mac14,7, M2, 2022: MNEH3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,7, M2, 2022: MNEP3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,7, M2, 2022: MNEJ3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,7, M2, 2022: MNEQ3LL/A (Silver, 3.49GHz Apple M2)
+
+661-17548
+Space Gray
+- MacBookPro17,1 M1 2020: MYD82LL/A (Space Gray, 3.2 GHz Apple M1)
+- MacBookPro17,1 M1 2020: MYDA2LL/A (Silver, 3.2 GHz Apple M1)
+- MacBookPro17,1 M1 2020: MYD92LL/A (Space Gray, 3.2 GHz Apple M1)
+- MacBookPro17,1 M1 2020: MYDC2LL/A (Silver, 3.2 GHz Apple M1)
+- Mac14,7, M2, 2022: MNEH3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,7, M2, 2022: MNEP3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,7, M2, 2022: MNEJ3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,7, M2, 2022: MNEQ3LL/A (Silver, 3.49GHz Apple M2)
+
+==== A2442 ====
+Apple A2442 14" Display Assembly
+
+661-21973
+Silver
+- MacBookPro18,3, M1 Pro 2021: MKGP3LL/A (Space Gray, 3.2GHz Apple M1 Pro)
+- MacBookPro18,3, M1 Pro 2021: MKGR3LL/A (Silver, 3.2GHz Apple M1 Pro)
+- MacBookPro18,3, M1 Pro 2021: BTO (3.2GHz Apple M1 Pro)
+- MacBookPro18,3, M1 Pro 2021: MKGQ3LL/A (Space Gray, 3.2GHz Apple M1 Pro)
+- MacBookPro18,3, M1 Pro 2021: MKGT3LL/A (Silver, 3.2GHz Apple M1 Pro)
+- MacBookPro18,4, M1 Max 2021: BTO (3.2GHz Apple M1 Max)
+
+661-21972
+Space Gray
+- MacBookPro18,3, M1 Pro 2021: MKGP3LL/A (Space Gray, 3.2GHz Apple M1 Pro)
+- MacBookPro18,3, M1 Pro 2021: MKGR3LL/A (Silver, 3.2GHz Apple M1 Pro)
+- MacBookPro18,3, M1 Pro 2021: BTO (3.2GHz Apple M1 Pro)
+- MacBookPro18,3, M1 Pro 2021: MKGQ3LL/A (Space Gray, 3.2GHz Apple M1 Pro)
+- MacBookPro18,3, M1 Pro 2021: MKGT3LL/A (Silver, 3.2GHz Apple M1 Pro)
+- MacBookPro18,4, M1 Max 2021: BTO (3.2GHz Apple M1 Max)
+
+==== A2485 ====
+Apple A2485 16" Display Assembly
+
+661-21969
+Silver
+- MacBookPro18,1, M1 Pro 2021: MK1E3LL/A (Silver, 3.2GHz Apple M1 Pro)
+- MacBookPro18,1, M1 Pro 2021: MK183LL/A (Space Gray, 3.2GHz Apple M1 Pro)
+- MacBookPro18,1, M1 Pro 2021: MK1F3LL/A (Silver, 3.2GHz Apple M1 Pro)
+- MacBookPro18,1, M1 Pro 2021: MK193LL/A (Space Gray, 3.2GHz Apple M1 Pro)
+- MacBookPro18,2, M1 Max 2021: BTO (3.2GHz Apple M1 Max)
+- MacBookPro18,2, M1 Max 2021: MK1H3LL/A (Silver, 3.2GHz Apple M1 Max)
+- MacBookPro18,2, M1 Max 2021: MK1A3LL/A (Space Gray, 3.2GHz Apple M1 Max)
+
+661-21968
+Space Gray
+- MacBookPro18,1, M1 Pro 2021: MK1E3LL/A (Silver, 3.2GHz Apple M1 Pro)
+- MacBookPro18,1, M1 Pro 2021: MK183LL/A (Space Gray, 3.2GHz Apple M1 Pro)
+- MacBookPro18,1, M1 Pro 2021: MK1F3LL/A (Silver, 3.2GHz Apple M1 Pro)
+- MacBookPro18,1, M1 Pro 2021: MK193LL/A (Space Gray, 3.2GHz Apple M1 Pro)
+- MacBookPro18,2, M1 Max 2021: BTO (3.2GHz Apple M1 Max)
+- MacBookPro18,2, M1 Max 2021: MK1H3LL/A (Silver, 3.2GHz Apple M1 Max)
+- MacBookPro18,2, M1 Max 2021: MK1A3LL/A (Space Gray, 3.2GHz Apple M1 Max)
+
+==== A2681 ====
+Apple A2681 13" Display Assembly
+
+661-25798
+Silver
+- Mac14,2, M2 2022: MLXY3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLXW3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY33LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY13LL/A (Starlight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7V4LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7U4LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7X4LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7W4LL/A (Starlight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY03LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLXX3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY43LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY23LL/A (Starlight, 3.49GHz Apple M2)
+
+661-25797
+Space Gray
+- Mac14,2, M2 2022: MLXY3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLXW3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY33LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY13LL/A (Starlight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7V4LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7U4LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7X4LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7W4LL/A (Starlight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY03LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLXX3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY43LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY23LL/A (Starlight, 3.49GHz Apple M2)
+
+661-25800
+Midnight
+- Mac14,2, M2 2022: MLXY3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLXW3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY33LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY13LL/A (Starlight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7V4LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7U4LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7X4LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7W4LL/A (Starlight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY03LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLXX3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY43LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY23LL/A (Starlight, 3.49GHz Apple M2)
+
+661-25799
+Starlight
+- Mac14,2, M2 2022: MLXY3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLXW3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY33LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY13LL/A (Starlight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7V4LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7U4LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7X4LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MC7W4LL/A (Starlight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY03LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLXX3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY43LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,2, M2 2022: MLY23LL/A (Starlight, 3.49GHz Apple M2)
+
+==== A2779 ====
+Apple A2779 14" Display Assembly
+
+661-32209
+Silver
+- Mac14,9, M2 Pro 2023: MPHH3LL/A (Silver, 3.49GHz Apple M2 Pro)
+- Mac14,9, M2 Pro 2023: MPHE3LL/A (Space Gray, 3.49GHz Apple M2 Pro)
+- Mac14,9, M2 Pro 2023: MPHJ3LL/A (Silver, 3.49GHz Apple M2 Pro)
+- Mac14,9, M2 Pro 2023: MPHF3LL/A (Space Gray, 3.49GHz Apple M2 Pro)
+- Mac14,5, M2 Max 2023: MPHK3LL/A (Silver, 3.68GHz Apple M2 Max)
+- Mac14,5, M2 Max 2023: MPHG3LL/A (Space Gray, 3.68GHz Apple M2 Max)
+- Mac14,5, M2 Max 2023: BTO (3.68GHz Apple M2 Max)
+
+661-32207
+Space Gray
+- Mac14,9, M2 Pro 2023: MPHH3LL/A (Silver, 3.49GHz Apple M2 Pro)
+- Mac14,9, M2 Pro 2023: MPHE3LL/A (Space Gray, 3.49GHz Apple M2 Pro)
+- Mac14,9, M2 Pro 2023: MPHJ3LL/A (Silver, 3.49GHz Apple M2 Pro)
+- Mac14,9, M2 Pro 2023: MPHF3LL/A (Space Gray, 3.49GHz Apple M2 Pro)
+- Mac14,5, M2 Max 2023: MPHK3LL/A (Silver, 3.68GHz Apple M2 Max)
+- Mac14,5, M2 Max 2023: MPHG3LL/A (Space Gray, 3.68GHz Apple M2 Max)
+- Mac14,5, M2 Max 2023: BTO (3.68GHz Apple M2 Max)
+
+==== A2780 ====
+Apple A2780 16" Display Assembly
+
+661-32188
+Silver
+- Mac14,10, M2 Pro 2023: MNWC3LL/A (Silver, 3.49GHz Apple M2 Pro)
+- Mac14,10, M2 Pro 2023: MNW83LL/A (Space Gray, 3.49GHz Apple M2 Pro)
+- Mac14,10, M2 Pro 2023: MNWD3LL/A (Silver, 3.49GHz Apple M2 Pro)
+- Mac14,10, M2 Pro 2023: MNW93LL/A (Space Gray, 3.49GHz Apple M2 Pro)
+- Mac14,6, M2 Max 2023: BTO (3.68GHz Apple M2 Max)
+- Mac14,6, M2 Max 2023: MNWE3LL/A (Silver, 3.68GHz Apple M2 Max)
+- Mac14,6, M2 Max 2023: MNWA3LL/A (Space Gray, 3.68GHz Apple M2 Max)
+
+661-32187
+Space Gray
+- Mac14,10, M2 Pro 2023: MNWC3LL/A (Silver, 3.49GHz Apple M2 Pro)
+- Mac14,10, M2 Pro 2023: MNW83LL/A (Space Gray, 3.49GHz Apple M2 Pro)
+- Mac14,10, M2 Pro 2023: MNWD3LL/A (Silver, 3.49GHz Apple M2 Pro)
+- Mac14,10, M2 Pro 2023: MNW93LL/A (Space Gray, 3.49GHz Apple M2 Pro)
+- Mac14,6, M2 Max 2023: BTO (3.68GHz Apple M2 Max)
+- Mac14,6, M2 Max 2023: MNWE3LL/A (Silver, 3.68GHz Apple M2 Max)
+- Mac14,6, M2 Max 2023: MNWA3LL/A (Space Gray, 3.68GHz Apple M2 Max)
+
+==== A2918 ====
+Apple A2918 14" Display Assembly
+
+661-35705
+Silver
+- Mac15,3, M3 2023: MR7J3LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,3, M3 2023: MTL73LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,3, M3 2023: MR7K3LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,3, M3 2023: MTL83LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,3, M3 2023: MXE13LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,3, M3 2023: MXE03LL/A (Space Gray, 4.05GHz Apple M3)
+
+661-35704
+Space Gray
+- Mac15,3, M3 2023: MR7J3LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,3, M3 2023: MTL73LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,3, M3 2023: MR7K3LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,3, M3 2023: MTL83LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,3, M3 2023: MXE13LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,3, M3 2023: MXE03LL/A (Space Gray, 4.05GHz Apple M3)
+
+==== A2941 ====
+Apple A2941 15" Display Assembly
+
+661-34703
+Silver
+- Mac14,15, M2 2023: MQKR3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKP3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKW3LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKU3LL/A (Starlight, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKT3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKQ3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKX3LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKV3LL/A (Starlight, 3.49GHz Apple M2)
+- Mac15,13, M3 2024: MRYP3LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYM3LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYU3LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYR3LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYQ3LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYN3LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYV3LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYT3LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD23LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD13LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD43LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD33LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9E4LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9D4LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9G4LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9F4LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9J4LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9H4LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9L4LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9K4LL/A (Starlight, 4.05GHz Apple M3)
+
+661-34702
+Space Gray
+- Mac14,15, M2 2023: MQKR3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKP3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKW3LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKU3LL/A (Starlight, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKT3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKQ3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKX3LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKV3LL/A (Starlight, 3.49GHz Apple M2)
+- Mac15,13, M3 2024: MRYP3LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYM3LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYU3LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYR3LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYQ3LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYN3LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYV3LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYT3LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD23LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD13LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD43LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD33LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9E4LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9D4LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9G4LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9F4LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9J4LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9H4LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9L4LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9K4LL/A (Starlight, 4.05GHz Apple M3)
+
+661-34705
+Midnight
+- Mac14,15, M2 2023: MQKR3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKP3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKW3LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKU3LL/A (Starlight, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKT3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKQ3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKX3LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKV3LL/A (Starlight, 3.49GHz Apple M2)
+- Mac15,13, M3 2024: MRYP3LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYM3LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYU3LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYR3LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYQ3LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYN3LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYV3LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYT3LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD23LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD13LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD43LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD33LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9E4LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9D4LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9G4LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9F4LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9J4LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9H4LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9L4LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9K4LL/A (Starlight, 4.05GHz Apple M3)
+
+661-34704
+Starlight
+- Mac14,15, M2 2023: MQKR3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKP3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKW3LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKU3LL/A (Starlight, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKT3LL/A (Silver, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKQ3LL/A (Space Gray, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKX3LL/A (Midnight, 3.49GHz Apple M2)
+- Mac14,15, M2 2023: MQKV3LL/A (Starlight, 3.49GHz Apple M2)
+- Mac15,13, M3 2024: MRYP3LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYM3LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYU3LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYR3LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYQ3LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYN3LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYV3LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MRYT3LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD23LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD13LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD43LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MXD33LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9E4LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9D4LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9G4LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9F4LL/A (Starlight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9J4LL/A (Silver, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9H4LL/A (Space Gray, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9L4LL/A (Midnight, 4.05GHz Apple M3)
+- Mac15,13, M3 2024: MC9K4LL/A (Starlight, 4.05GHz Apple M3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A1932 - A1932 2018 3184 is not compatible with A1932 2019 EMC 3184. Camera won't work if installed on 2019 year. 
+2018 year screen does not contain True Tone. If the Mac includes True Tone, you can use the A2179.
+
+A1989 - A2159, A2289, A2251
+
