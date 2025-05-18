@@ -71,3 +71,7 @@ test-results.xml
 # Local test configs
 .tox/
 .cache/
+
+# Flask-specific
+*.pid
+*.swp
