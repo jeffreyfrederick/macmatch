@@ -1,4 +1,4 @@
-model_code,part_number,model_identifier,release,model_number,cpu,emc,size,color
+code#,part#,model_id,release,model#,cpu,emc,size,color
 # A1369
 A1369,661-5732,MacBookAir3.2,Late 2010,MC503LL/A,1.86 GHz Intel Core 2 Duo SL9400,2392,13,Silver
 A1369,661-5732,MacBookAir3.2,Late 2010,MC504LL/A,1.86 GHz Intel Core 2 Duo SL9400,2392,13,Silver
