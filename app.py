@@ -5,7 +5,7 @@ import csv
 app = Flask(__name__)
 
 def load_data():
-    data = []
+    data = []
     with open('displays.csv', newline='', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile)
         headers = []
