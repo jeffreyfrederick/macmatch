@@ -16,7 +16,7 @@
   <h2>⚙️ Usage</h2>
   <ol>
     <li>Type a Mac model or another identifier into the search bar. You can also just search by color!</li>
-    <li>Click "Strike!"/li>
+    <li>Click "Strike!"</li>
     <li>View compatible display data grouped by color</li>
   </ol>
 
