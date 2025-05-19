@@ -28,10 +28,10 @@ def index():
     if query:
         for row in data:
             if (
-                query in row['model_code'][:5].lower() or
-                query in row['part_number'].lower() or
+                query in row['code#'][:5].lower() or
+                query in row['part#'].lower() or
                 query in row['release'].lower() or
-                query in row['model_number'].lower() or
+                query in row['model#'].lower() or
                 query in row['cpu'].lower() or
                 query in row['emc'].lower() or
                 query in row['size'].lower() or
