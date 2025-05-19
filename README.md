@@ -4,6 +4,10 @@
 <br>
 <body>
   <p><strong>MacMatch</strong> is a lightweight Flask web application that helps you identify compatible MacBook displays based on model numbers or identifiers. Perfect for IT techs, refurbishers, or Mac enthusiasts.</p>
+<br>
+<div align="center">
+    <img src="static/images/screenshot.png" alt="Screenshot">
+</div>
 
   <h2>🔍 Features</h2>
   <ul>
