@@ -1,0 +1,7 @@
+model_code,part_number,model_identifier,release,model_number,cpu,gpu,emc,size,color
+A1369,820-3023-A,MacBookAir4.2,Mid 2011,MC965LL/A,1.7 GHz Core i5-2557M,HD Graphics 3000,2469,13,Silver
+A1369,820-3023-A,MacBookAir4.2,Mid 2011,MC966LL/A,1.7 GHz Core i5-2557M,HD Graphics 3000,2469,13,Silver
+A1369,820-3023-A,MacBookAir4.2,Mid 2011,MD226LL/A,1.8 GHz Core i7-2677M,HD Graphics 3000,2469,13,Silver
+A1369,820-3023-B,MacBookAir4.2,Mid 2011,MC965LL/A,1.7 GHz Core i5-2557M,HD Graphics 3000,2469,13,Silver
+A1369,820-3023-B,MacBookAir4.2,Mid 2011,MC966LL/A,1.7 GHz Core i5-2557M,HD Graphics 3000,2469,13,Silver
+A1369,820-3023-B,MacBookAir4.2,Mid 2011,MD226LL/A,1.8 GHz Core i7-2677M,HD Graphics 3000,2469,13,Silver
