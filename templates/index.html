@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MacMatch</title>
+    <link rel="stylesheet" href="/static/css/bulma.min.css">
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+<section class="section">
+    <div class="container has-text-centered">
+        <!-- Logo -->
+        <figure class="image is-inline-block mb-6">
+            <img src="{{ url_for('static', filename='images/logo.png') }}" alt="MacMatch">
+        </figure>
+        <!-- Search Form -->
+        <form method="POST">
+            <div class="field has-addons is-justify-content-center">
+                <div class="control is-expanded">
+                    <input class="input" type="text" name="query" placeholder="Enter Mac model (e.g. A1369, MacBookAir3.2)" value="{{ query }}">
+                </div>
+                <div class="control">
+                    <button class="button is-info" type="submit">Strike!</button>
+                </div>
+            </div>
+        </form>
+
+        {% if grouped_results %}
+            {% for color, items in grouped_results.items() %}
+                <h2 class="subtitle has-text-left mt-5">
+                    <span class="tag mac-color-{{ color | lower | replace(' ', '-') }}">
+                        {{ color }}
+                    </span>
+                </h2>
+                <table class="table is-striped is-fullwidth">
+                    <thead class="is-uppercase">
+                        <tr>
+                            {% for key in items[0].keys() %}
+                            <th>{{ key }}</th>
+                            {% endfor %}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for row in items %}
+                        <tr>
+                            {% for val in row.values() %}
+                            <td>{{ val }}</td>
+                            {% endfor %}
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            {% endfor %}
+        {% elif query %}
+        <p class="has-text-danger mt-4">No results found for "{{ query }}"</p>
+        {% endif %}
+    </div>
+</section>
+</body>
+</html>
