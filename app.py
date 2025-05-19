@@ -10,7 +10,7 @@ def load_data():
         reader = csv.reader(csvfile)
         headers = []
         for row in reader:
-            if not row or row[0].startswith("#"):
+            if not row or row[0].startswith("!"):
                 continue
             if not headers:
                 headers = row
