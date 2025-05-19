@@ -5,12 +5,12 @@ import csv
 app = Flask(__name__)
 
 def load_data():
-    data = []
+    data = []
     with open('displays.csv', newline='', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile)
         headers = []
         for row in reader:
-            if not row or row[0].startswith("!"):
+            if not row or row[0].startswith("#"):
                 continue
             if not headers:
                 headers = row
