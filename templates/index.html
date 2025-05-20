@@ -25,13 +25,18 @@
                 </div>
             </div>
         </form>
-
         {% if grouped_results %}
             {% for color, items in grouped_results.items() %}
                 <h2 class="subtitle has-text-left mt-5">
+                    {% if color == "SB" %}
+                        {% set color = "Space Black" %}
+                    {% elif color == "SG" %}
+                        {% set color = "Space Gray" %}
+                    {% endif %}
                     <span class="tag mac-color-{{ color | lower | replace(' ', '-') }}">
                         {{ color }}
                     </span>
+                    <span class="tag is-pulled-right">MacBook Display</span>
                 </h2>
                 <table class="table is-striped is-fullwidth">
                     <thead class="is-uppercase">
@@ -53,7 +58,7 @@
                 </table>
             {% endfor %}
         {% elif query %}
-        <p class="has-text-danger mt-4">No results found for "{{ query }}"</p>
+            <p class="has-text-danger mt-4">No results found for "{{ query }}"</p>
         {% endif %}
     </div>
 </section>
