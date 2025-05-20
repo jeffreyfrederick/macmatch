@@ -1,4 +1,4 @@
-model#,part#,model_id,release,model#,cpu,gpu,emc,size,color
+code#,part#,model_id,release,model#,cpu,gpu,emc,size,color
 ! A1369
 A1369,661-5732,MacBookAir4.2,Mid 2011,MC965LL/A,1.7 GHz Core i5-2557M,HD Graphics 3000,2469,13,Silver
 A1369,661-5732,MacBookAir4.2,Mid 2011,MC966LL/A,1.7 GHz Core i5-2557M,HD Graphics 3000,2469,13,Silver
