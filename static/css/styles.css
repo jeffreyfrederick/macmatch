@@ -33,6 +33,10 @@
   color: black;
 }
 
-table thead th {
+th {
   text-align: center !important;
+}
+
+table {
+    font-size: 12px !important;
 }
