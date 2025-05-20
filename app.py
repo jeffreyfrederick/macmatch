@@ -33,6 +33,7 @@ def index():
                 query in row['release'].lower() or
                 query in row['model#'].lower() or
                 query in row['cpu'].lower() or
+                query in row['gpu'].lower() or
                 query in row['emc'].lower() or
                 query in row['size'].lower() or
                 query in row['color'].lower()
