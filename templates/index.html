@@ -28,43 +28,48 @@
                     </div>
                 </form>
                 {% if grouped_results %}
-                    {% for color, items in grouped_results.items() %}
-                        <h2 class="subtitle has-text-left mt-5">
-                            {% if color == "SB" %}
-                                {% set color = "Space Black" %}
-                            {% elif color == "SG" %}
-                                {% set color = "Space Gray" %}
+                    {% for (tag, color), items in grouped_results.items() %}
+    <h2 class="subtitle has-text-left mt-5">
+        {% if color == "SB" %}
+            {% set color = "Space Black" %}
+        {% elif color == "SG" %}
+            {% set color = "Space Gray" %}
+        {% endif %}
+        <span class="tag mac-color-{{ color | lower | replace(' ', '-') }}">
+            {{ color }}
+        </span>
+        <span class="tag is-pulled-right">{{ tag }}</span>
+    </h2>
+    <table class="table is-striped is-fullwidth responsive-table-text">
+        <thead class="is-uppercase">
+            <tr>
+                {% for key in items[0].keys() %}
+                    {% if key != 'tag' %}
+                        <th>{{ key }}</th>
+                    {% endif %}
+                {% endfor %}
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in items %}
+            <tr>
+                {% for key, val in row.items() %}
+                    {% if key != 'tag' %}
+                        <td class="py-2">
+                            {% if key == 'size' %}
+                                {{ val }}" 
+                            {% else %}
+                                {{ val }}
                             {% endif %}
-                            <span class="tag mac-color-{{ color | lower | replace(' ', '-') }}">
-                                {{ color }}
-                            </span>
-                            <span class="tag is-pulled-right">MacBook Display</span>
-                        </h2>
-                        <table class="table is-striped is-fullwidth responsive-table-text">
-                            <thead class="is-uppercase">
-                                <tr>
-                                    {% for key in items[0].keys() %}
-                                    <th>{{ key }}</th>
-                                    {% endfor %}
-                                </tr>
-                            </thead>
-                            <tbody>
-                                {% for row in items %}
-                                <tr>
-                                    {% for key, val in row.items() %}
-                                    <td class="py-2">
-                                        {% if key == 'size' %}
-                                            {{ val }}"
-                                        {% else %}
-                                            {{ val }}
-                                        {% endif %}
-                                    </td>
-                                {% endfor %}
-                                </tr>
-                                {% endfor %}
-                            </tbody>
-                        </table>
-                    {% endfor %}
+                        </td>
+                    {% endif %}
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endfor %}
+
                 {% elif query %}
                     <p class="has-text-danger mt-4">No results found for "{{ query }}"</p>
                 {% endif %}
