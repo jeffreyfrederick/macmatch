@@ -1,0 +1,9 @@
+code #,model id,release,model #,cpu,ram,storage,gpu,emc,latest os,color
+! A1347
+A1347,Macmini5.1,Mid 2011,MC815LL/A,2.3GHz Core i5-2415M,2GB/8GB/16GB,500GB,HD Graphics 3000,2442,High Sierra,Silver
+A1347,Macmini5.2,Mid 2011,MC816LL/A,2.5GHz Core i5-2520M,4GB/8GB/16GB,500GB,Radeon HD 6630M,2442,High Sierra,Silver
+A1347,Macmini5.2,Mid 2011,BTO,2.7GHz Core i7-2620M,4GB/8GB/16GB,500GB,Radeon HD 6630M,2442,High Sierra,Silver
+A1347,Macmini5.3,Mid 2011,MC936LL/A,2.0GHz Core i7-2635QM,4GB/8GB/16GB,500GBx2,HD Graphics 3000,2442,High Sierra,Silver
+
+A1347,Macmini6.1,Late 2012,MD387LL/A,2.5 GHz Core i5-3210M,4GB/16GB,500GB,HD Graphics 4000,2570,Catalina,Silver
+A1347,Macmini6.2,Late 2012,MD388LL/A,2.3 GHz Core i7-3615QM,4GB/16GB,1TB,HD Graphics 4000,2570,Catalina,Silver
