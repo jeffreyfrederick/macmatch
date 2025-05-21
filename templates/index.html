@@ -51,9 +51,15 @@
                             <tbody>
                                 {% for row in items %}
                                 <tr>
-                                    {% for val in row.values() %}
-                                    <td class="py-2">{{ val }}</td>
-                                    {% endfor %}
+                                    {% for key, val in row.items() %}
+                                    <td class="py-2">
+                                        {% if key == 'size' %}
+                                            {{ val }}"
+                                        {% else %}
+                                            {{ val }}
+                                        {% endif %}
+                                    </td>
+                                {% endfor %}
                                 </tr>
                                 {% endfor %}
                             </tbody>
