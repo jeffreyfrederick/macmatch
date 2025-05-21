@@ -12,7 +12,9 @@
             <div class="container has-text-centered">
                 <!-- Logo -->
                 <figure class="image is-inline-block mb-6">
-                    <img src="{{ url_for('static', filename='images/logo.png') }}" alt="MacMatch">
+                    <a href="{{ url_for('index') }}">
+                        <img src="{{ url_for('static', filename='images/logo.png') }}" alt="MacMatch">
+                    </a>
                 </figure>
                 <!-- Search Form -->
                 <form method="POST">
