@@ -21,17 +21,17 @@ def load_data():
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    query = request.form.get('query', '').lower()
+    query = ' '.join(request.form.get('query', '').strip().lower().split())
     data = load_data()
     grouped_results = defaultdict(list)
 
     if query:
         for row in data:
             if (
-                query in row['code#'][:5].lower() or
-                query in row['part#'].lower() or
+                query in row['code #'][:5].lower() or
+                query in row['part #'].lower() or
                 query in row['release'].lower() or
-                query in row['model#'].lower() or
+                query in row['model #'].lower() or
                 query in row['cpu'].lower() or
                 query in row['gpu'].lower() or
                 query in row['emc'].lower() or

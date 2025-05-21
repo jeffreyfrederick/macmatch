@@ -7,60 +7,60 @@
     <link rel="stylesheet" href="/static/css/bulma.min.css">
     <link rel="stylesheet" href="/static/css/styles.css">
 </head>
-<body>
-<section class="section">
-    <div class="container has-text-centered">
-        <!-- Logo -->
-        <figure class="image is-inline-block mb-6">
-            <img src="{{ url_for('static', filename='images/logo.png') }}" alt="MacMatch">
-        </figure>
-        <!-- Search Form -->
-        <form method="POST">
-            <div class="field has-addons is-justify-content-center">
-                <div class="control is-expanded">
-                    <input class="input" type="text" name="query" placeholder="Enter Mac model, part number, cpu, emc number, or color. (e.g. A1369, MacBook9.1, Intel Core i5, Space Gray, etc.)" value="{{ query }}">
-                </div>
-                <div class="control">
-                    <button class="button is-info" type="submit">Strike!</button>
-                </div>
+    <body>
+        <section class="section">
+            <div class="container has-text-centered">
+                <!-- Logo -->
+                <figure class="image is-inline-block mb-6">
+                    <img src="{{ url_for('static', filename='images/logo.png') }}" alt="MacMatch">
+                </figure>
+                <!-- Search Form -->
+                <form method="POST">
+                    <div class="field has-addons is-justify-content-center">
+                        <div class="control is-expanded">
+                            <input class="input" type="text" name="query" placeholder="Enter Mac model, part number, CPU, EMC number, etc. (e.g. A2941, MacBook9.1, Core i5, Space Gray)" value="{{ query }}">
+                        </div>
+                        <div class="control">
+                            <button class="button is-info" type="submit">Strike!</button>
+                        </div>
+                    </div>
+                </form>
+                {% if grouped_results %}
+                    {% for color, items in grouped_results.items() %}
+                        <h2 class="subtitle has-text-left mt-5">
+                            {% if color == "SB" %}
+                                {% set color = "Space Black" %}
+                            {% elif color == "SG" %}
+                                {% set color = "Space Gray" %}
+                            {% endif %}
+                            <span class="tag mac-color-{{ color | lower | replace(' ', '-') }}">
+                                {{ color }}
+                            </span>
+                            <span class="tag is-pulled-right">MacBook Display</span>
+                        </h2>
+                        <table class="table is-striped is-fullwidth responsive-table-text">
+                            <thead class="is-uppercase">
+                                <tr>
+                                    {% for key in items[0].keys() %}
+                                    <th>{{ key }}</th>
+                                    {% endfor %}
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for row in items %}
+                                <tr>
+                                    {% for val in row.values() %}
+                                    <td class="py-2">{{ val }}</td>
+                                    {% endfor %}
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    {% endfor %}
+                {% elif query %}
+                    <p class="has-text-danger mt-4">No results found for "{{ query }}"</p>
+                {% endif %}
             </div>
-        </form>
-        {% if grouped_results %}
-            {% for color, items in grouped_results.items() %}
-                <h2 class="subtitle has-text-left mt-5">
-                    {% if color == "SB" %}
-                        {% set color = "Space Black" %}
-                    {% elif color == "SG" %}
-                        {% set color = "Space Gray" %}
-                    {% endif %}
-                    <span class="tag mac-color-{{ color | lower | replace(' ', '-') }}">
-                        {{ color }}
-                    </span>
-                    <span class="tag is-pulled-right">MacBook Display</span>
-                </h2>
-                <table class="table is-striped is-fullwidth responsive-table-text">
-                    <thead class="is-uppercase">
-                        <tr>
-                            {% for key in items[0].keys() %}
-                            <th>{{ key }}</th>
-                            {% endfor %}
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {% for row in items %}
-                        <tr>
-                            {% for val in row.values() %}
-                            <td class="py-2">{{ val }}</td>
-                            {% endfor %}
-                        </tr>
-                        {% endfor %}
-                    </tbody>
-                </table>
-            {% endfor %}
-        {% elif query %}
-            <p class="has-text-danger mt-4">No results found for "{{ query }}"</p>
-        {% endif %}
-    </div>
-</section>
-</body>
+        </section>
+    </body>
 </html>
