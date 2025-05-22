@@ -14,19 +14,19 @@ A1347,Macmini7.1,Late 2014,MGEN2LL/A,2.6 GHz Core i5-4278U,8GB/16GB,1TB,Iris 510
 A1347,Macmini7.1,Late 2014,MGEQ2LL/A,2.8 GHz Core i5-4308U,8GB/16GB,1TB,Iris 5100,2840,Catalina,Silver,Mac Mini
 A1347,Macmini7.1,Late 2014,BTO,3.0 GHz Core i7-4578U,8GB/16GB,1TB,Iris 5100,2840,Catalina,Silver,Mac Mini
 ! A1993
-A1993,Macmini8.1,Late 2018,MRTR2LL/A,3.6 GHz Core i3-8100B,8GB,128GB,Intel UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
-A1993,Macmini8.1,Late 2018,MXNF2LL/A,3.6 GHz Core i3-8100B,8GB,256GB,Intel UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
-A1993,Macmini8.1,Late 2018,MRTT2LL/A,3.0 GHz Core i5-8500B,8GB,256GB,Intel UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
-A1993,Macmini8.1,Late 2018,MXNG2LL/A,3.0 GHz Core i5-8500B,8GB,256GB,Intel UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
-A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,128GB,Intel UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
-A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,256GB,Intel UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
-A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,512GB,Intel UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
-A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,1TB,Intel UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
-A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,2TB,Intel UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
-A1993,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,256GB,Intel UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
-A1993,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,512GB,Intel UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
-A1993,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,1TB,Intel UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
-A1993,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,2TB,Intel UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A1993,Macmini8.1,Late 2018,MRTR2LL/A,3.6 GHz Core i3-8100B,8GB,128GB,Intel UHD Graphics 630,3213,Sequoia,SG,Mac Mini
+A1993,Macmini8.1,Late 2018,MXNF2LL/A,3.6 GHz Core i3-8100B,8GB,256GB,Intel UHD Graphics 630,3213,Sequoia,SG,Mac Mini
+A1993,Macmini8.1,Late 2018,MRTT2LL/A,3.0 GHz Core i5-8500B,8GB,256GB,Intel UHD Graphics 630,3213,Sequoia,SG,Mac Mini
+A1993,Macmini8.1,Late 2018,MXNG2LL/A,3.0 GHz Core i5-8500B,8GB,256GB,Intel UHD Graphics 630,3213,Sequoia,SG,Mac Mini
+A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,128GB,Intel UHD Graphics 630,3213,Sequoia,SG,Mac Mini
+A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,256GB,Intel UHD Graphics 630,3213,Sequoia,SG,Mac Mini
+A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,512GB,Intel UHD Graphics 630,3213,Sequoia,SG,Mac Mini
+A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,1TB,Intel UHD Graphics 630,3213,Sequoia,SG,Mac Mini
+A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,2TB,Intel UHD Graphics 630,3213,Sequoia,SG,Mac Mini
+A1993,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,256GB,Intel UHD Graphics 630,3213,Sequoia,SG,Mac Mini
+A1993,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,512GB,Intel UHD Graphics 630,3213,Sequoia,SG,Mac Mini
+A1993,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,1TB,Intel UHD Graphics 630,3213,Sequoia,SG,Mac Mini
+A1993,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,2TB,Intel UHD Graphics 630,3213,Sequoia,SG,Mac Mini
 ! A2348
 A2348,Macmini9.1,2020,MGNR3LL/A,3.2 GHz Apple M1 (8 Core),8GB/16GB,256GB,Apple M1 (8 Core),3569,Sequoia,Silver,Mac Mini
 A2348,Macmini9.1,2020,MGNT3LL/A,3.2 GHz Apple M1 (8 Core),8GB/16GB,512GB,Apple M1 (8 Core),3569,Sequoia,Silver,Mac Mini
