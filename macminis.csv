@@ -1,5 +1,8 @@
 code #,model id,release,model #,cpu,ram,storage,gpu,emc,os,color,tag
 ! A1347
+A1347,Macmini4.1,Mid 2010,MC270LL/A,2.4 GHz Core 2 Duo P8600,2GB/8GB/16GB,320GB/500GB,GeForce 320M,2364,High Sierra,Silver,Mac Mini
+A1347,Macmini4.1,Mid 2010,BTO,2.4 GHz Core 2 Duo P8600,2GB/8GB/16GB,320GB/500GB,GeForce 320M,2364,High Sierra,Silver,Mac Mini
+A1347,Macmini4.1,Mid 2010,MC438LL/A,2.4 GHz Core 2 Duo P8600,4GB/8GB/16GB,500GBx2,GeForce 320M,2364,High Sierra,Silver,Mac Mini
 A1347,Macmini5.1,Mid 2011,MC815LL/A,2.3GHz Core i5-2415M,2GB/8GB/16GB,500GB,HD Graphics 3000,2442,High Sierra,Silver,Mac Mini
 A1347,Macmini5.2,Mid 2011,MC816LL/A,2.5GHz Core i5-2520M,4GB/8GB/16GB,500GB,Radeon HD 6630M,2442,High Sierra,Silver,Mac Mini
 A1347,Macmini5.2,Mid 2011,BTO,2.7GHz Core i7-2620M,4GB/8GB/16GB,500GB,Radeon HD 6630M,2442,High Sierra,Silver,Mac Mini
