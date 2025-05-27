@@ -1,9 +1,7 @@
-code #,name,model id,release,model #,cpu,ram,storage,gpu,emc,size,os,color,tag
-! A1203
-A1203,iPhone,iPhone1.1,2007,MA712LL/A,412 MHz Samsung 32-bit ARM,128MB,4GB,PowerVR MBX Lite 3D,N/A,3.5,iOS 3.1.3,Black,iPhone
-A1203,iPhone,iPhone1.1,2007,MA501LL/A,412 MHz Samsung 32-bit ARM,128MB,8GB,PowerVR MBX Lite 3D,N/A,3.5,iOS 3.1.3,Black,iPhone
-A1203,iPhone,iPhone1.1,2007,MB384LL/A,412 MHz Samsung 32-bit ARM,128MB,16GB,PowerVR MBX Lite 3D,N/A,3.5,iOS 3.1.3,Black,iPhone
-! A1241
-A1241,iPhone 3G,iPhone1.2,2008,MB046LL/A,412 MHz Samsung 32-bit ARM,128MB,8GB,PowerVR MBX Lite 3D,2347,3.5,iOS 4.2,Black,iPhone
-A1241,iPhone 3G,iPhone1.2,2008,MB048LL/A,412 MHz Samsung 32-bit ARM,128MB,16GB,PowerVR MBX Lite 3D,2347,3.5,iOS 4.2,Black,iPhone
-A1241,iPhone 3G,iPhone1.2,2008,MB499LL/A,412 MHz Samsung 32-bit ARM,128MB,16GB,PowerVR MBX Lite 3D,2347,3.5,iOS 4.2,White,iPhone
+code #,emc,name,model id,release,model #,cpu,ram,storage,gpu,emc,size,os,color,tag
+A1203,N/A,iPhone,iPhone1.1,2007,MA712LL/A,412 MHz Samsung 32-bit ARM,128MB,4GB,PowerVR MBX Lite 3D,N/A,3.5,iOS 3.1.3,Black,iPhone
+A1203,N/A,iPhone,iPhone1.1,2007,MA501LL/A,412 MHz Samsung 32-bit ARM,128MB,8GB,PowerVR MBX Lite 3D,N/A,3.5,iOS 3.1.3,Black,iPhone
+A1203,N/A,iPhone,iPhone1.1,2007,MB384LL/A,412 MHz Samsung 32-bit ARM,128MB,16GB,PowerVR MBX Lite 3D,N/A,3.5,iOS 3.1.3,Black,iPhone
+A1241,2347,iPhone 3G,iPhone1.2,2008,MB046LL/A,412 MHz Samsung 32-bit ARM,128MB,8GB,PowerVR MBX Lite 3D,2347,3.5,iOS 4.2,Black,iPhone
+A1241,2347,iPhone 3G,iPhone1.2,2008,MB048LL/A,412 MHz Samsung 32-bit ARM,128MB,16GB,PowerVR MBX Lite 3D,2347,3.5,iOS 4.2,Black,iPhone
+A1241,2347,iPhone 3G,iPhone1.2,2008,MB499LL/A,412 MHz Samsung 32-bit ARM,128MB,16GB,PowerVR MBX Lite 3D,2347,3.5,iOS 4.2,White,iPhone

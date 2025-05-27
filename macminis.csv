@@ -1,48 +1,41 @@
-code #,model id,release,model #,cpu,ram,storage,gpu,emc,os,color,tag
-! A1347
-A1347,Macmini4.1,Mid 2010,MC270LL/A,2.4 GHz Core 2 Duo P8600,2GB/8GB/16GB,320GB/500GB,GeForce 320M,2364,High Sierra,Silver,Mac Mini
-A1347,Macmini4.1,Mid 2010,BTO,2.4 GHz Core 2 Duo P8600,2GB/8GB/16GB,320GB/500GB,GeForce 320M,2364,High Sierra,Silver,Mac Mini
-A1347,Macmini4.1,Mid 2010,MC438LL/A,2.4 GHz Core 2 Duo P8600,4GB/8GB/16GB,500GBx2,GeForce 320M,2364,High Sierra,Silver,Mac Mini
-A1347,Macmini5.1,Mid 2011,MC815LL/A,2.3GHz Core i5-2415M,2GB/8GB/16GB,500GB,HD Graphics 3000,2442,High Sierra,Silver,Mac Mini
-A1347,Macmini5.2,Mid 2011,MC816LL/A,2.5GHz Core i5-2520M,4GB/8GB/16GB,500GB,Radeon HD 6630M,2442,High Sierra,Silver,Mac Mini
-A1347,Macmini5.2,Mid 2011,BTO,2.7GHz Core i7-2620M,4GB/8GB/16GB,500GB,Radeon HD 6630M,2442,High Sierra,Silver,Mac Mini
-A1347,Macmini5.3,Mid 2011,MC936LL/A,2.0GHz Core i7-2635QM,4GB/8GB/16GB,500GBx2,HD Graphics 3000,2442,High Sierra,Silver,Mac Mini
-A1347,Macmini6.1,Late 2012,MD387LL/A,2.5 GHz Core i5-3210M,4GB/16GB,500GB,HD Graphics 4000,2570,Catalina,Silver,Mac Mini
-A1347,Macmini6.2,Late 2012,MD388LL/A,2.3 GHz Core i7-3615QM,4GB/16GB,1TB,HD Graphics 4000,2570,Catalina,Silver,Mac Mini
-A1347,Macmini6.2,Late 2012,BTO,2.6 GHz Core i7-3720QM,4GB/16GB,1TB,HD Graphics 4000,2570,Catalina,Silver,Mac Mini
-A1347,Macmini6.2,Late 2012,MD389LL/A,2.3 GHz Core i7-3615QM,4GB/16GB,1TBx2,HD Graphics 4000,2570,Catalina,Silver,Mac Mini
-A1347,Macmini6.2,Late 2012,BTO,2.6 GHz Core i7-3720QM,4GB/16GB,1TBx2,HD Graphics 4000,2570,Catalina,Silver,Mac Mini
-A1347,Macmini7.1,Late 2014,MGEM2LL/A,1.4 GHz Core i5-4260U,4GB/8GB/16GB,500GB,HD Graphics 5000,2840,Catalina,Silver,Mac Mini
-A1347,Macmini7.1,Late 2014,MGEN2LL/A,2.6 GHz Core i5-4278U,8GB/16GB,1TB,Iris 5100,2840,Catalina,Silver,Mac Mini
-A1347,Macmini7.1,Late 2014,MGEQ2LL/A,2.8 GHz Core i5-4308U,8GB/16GB,1TB,Iris 5100,2840,Catalina,Silver,Mac Mini
-A1347,Macmini7.1,Late 2014,BTO,3.0 GHz Core i7-4578U,8GB/16GB,1TB,Iris 5100,2840,Catalina,Silver,Mac Mini
-! A1993
-A1993,Macmini8.1,Late 2018,MRTR2LL/A,3.6 GHz Core i3-8100B,8GB,128GB,UHD Graphics 630,3213,Sequoia,SG,Mac Mini
-A1993,Macmini8.1,Late 2018,MXNF2LL/A,3.6 GHz Core i3-8100B,8GB,256GB,UHD Graphics 630,3213,Sequoia,SG,Mac Mini
-A1993,Macmini8.1,Late 2018,MRTT2LL/A,3.0 GHz Core i5-8500B,8GB,256GB,UHD Graphics 630,3213,Sequoia,SG,Mac Mini
-A1993,Macmini8.1,Late 2018,MXNG2LL/A,3.0 GHz Core i5-8500B,8GB,256GB,UHD Graphics 630,3213,Sequoia,SG,Mac Mini
-A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,128GB,UHD Graphics 630,3213,Sequoia,SG,Mac Mini
-A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,256GB,UHD Graphics 630,3213,Sequoia,SG,Mac Mini
-A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,512GB,UHD Graphics 630,3213,Sequoia,SG,Mac Mini
-A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,1TB,UHD Graphics 630,3213,Sequoia,SG,Mac Mini
-A1993,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,2TB,UHD Graphics 630,3213,Sequoia,SG,Mac Mini
-A1993,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,256GB,UHD Graphics 630,3213,Sequoia,SG,Mac Mini
-A1993,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,512GB,UHD Graphics 630,3213,Sequoia,SG,Mac Mini
-A1993,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,1TB,UHD Graphics 630,3213,Sequoia,SG,Mac Mini
-A1993,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,2TB,UHD Graphics 630,3213,Sequoia,SG,Mac Mini
-! A2348
-A2348,Macmini9.1,2020,MGNR3LL/A,3.2 GHz M1 (8 Core),8GB/16GB,256GB,M1 (8 Core),3569,Sequoia,Silver,Mac Mini
-A2348,Macmini9.1,2020,MGNT3LL/A,3.2 GHz M1 (8 Core),8GB/16GB,512GB,M1 (8 Core),3569,Sequoia,Silver,Mac Mini
-! A2686
-A2686,Mac14.3,2023,MMFJ3LL/A,3.49 GHz M2 (8 Core),8GB/16GB/24GB,256GB/512GB/1TB/2TB,M1 (10 Core),8003,Sequoia,Silver,Mac Mini
-A2686,Mac14.3,2023,MMFK3LL/A,3.49 GHz M2 (8 Core),8GB/16GB/24GB,256GB/512GB/1TB/2TB,M1 (10 Core),8003,Sequoia,Silver,Mac Mini
-! A2816
-A2816,Mac14.12,2023,MNH73LL/A,3.49 GHz M2 Pro (10 Core),16GB,512GB/1TB/2TB/4TB/8TB,M2 Pro (16 Core),8180,Sequoia,Silver,Mac Mini
-A2816,Mac14.12,2023,BTO,3.49 GHz M2 Pro (12 Core),16GB,512GB/1TB/2TB/4TB/8TB,M2 Pro (16 Core),8180,Sequoia,Silver,Mac Mini
-! A3238
-A2338,Mac16.10,2024,MU9D3LL/A,4.4 GHz M4 (10 Core),16GB,256GB,M4 (10 Core),8739,Sequoia,Silver,Mac Mini
-A2338,Mac16.10,2024,MU9E3LL/A,4.4 GHz M4 (10 Core),16GB,512GB,M4 (10 Core),8739,Sequoia,Silver,Mac Mini
-A2338,Mac16.10,2024,MCYT4LL/A,4.4 GHz M4 (10 Core),24GB,512GB,M4 (10 Core),8739,Sequoia,Silver,Mac Mini
-! A3239
-A3239,Mac16.11,2024,MCX44LL/A,4.5 GHz M4 Pro (12 Core),24GB/48GB/64GB,512GB/1TB/2TB/4TB/8TB,M4 Pro (16 Core),8852,Sequoia,Silver,Mac Mini
-A3239,Mac16.11,2024,BTO,4.5 GHz M4 Pro (14 Core),24GB/48GB/64GB,512GB/1TB/2TB/4TB/8TB,M4 Pro (20 Core),8852,Sequoia,Silver,Mac Mini
+code #,emc,model id,release,model #,cpu,ram,storage,gpu,emc,os,color,tag
+A1347,2364,Macmini4.1,Mid 2010,MC270LL/A,2.4 GHz Core 2 Duo P8600,2GB/8GB/16GB,320GB/500GB,GeForce 320M,2364,High Sierra,Silver,Mac Mini
+A1347,2364,Macmini4.1,Mid 2010,BTO,2.4 GHz Core 2 Duo P8600,2GB/8GB/16GB,320GB/500GB,GeForce 320M,2364,High Sierra,Silver,Mac Mini
+A1347,2364,Macmini4.1,Mid 2010,MC438LL/A,2.4 GHz Core 2 Duo P8600,4GB/8GB/16GB,500GBx2,GeForce 320M,2364,High Sierra,Silver,Mac Mini
+A1347,2442,Macmini5.1,Mid 2011,MC815LL/A,2.3GHz Core i5-2415M,2GB/8GB/16GB,500GB,HD Graphics 3000,2442,High Sierra,Silver,Mac Mini
+A1347,2442,Macmini5.2,Mid 2011,MC816LL/A,2.5GHz Core i5-2520M,4GB/8GB/16GB,500GB,Radeon HD 6630M,2442,High Sierra,Silver,Mac Mini
+A1347,2442,Macmini5.2,Mid 2011,BTO,2.7GHz Core i7-2620M,4GB/8GB/16GB,500GB,Radeon HD 6630M,2442,High Sierra,Silver,Mac Mini
+A1347,2442,Macmini5.3,Mid 2011,MC936LL/A,2.0GHz Core i7-2635QM,4GB/8GB/16GB,500GBx2,HD Graphics 3000,2442,High Sierra,Silver,Mac Mini
+A1347,2570,Macmini6.1,Late 2012,MD387LL/A,2.5 GHz Core i5-3210M,4GB/16GB,500GB,HD Graphics 4000,2570,Catalina,Silver,Mac Mini
+A1347,2570,Macmini6.2,Late 2012,MD388LL/A,2.3 GHz Core i7-3615QM,4GB/16GB,1TB,HD Graphics 4000,2570,Catalina,Silver,Mac Mini
+A1347,2570,Macmini6.2,Late 2012,BTO,2.6 GHz Core i7-3720QM,4GB/16GB,1TB,HD Graphics 4000,2570,Catalina,Silver,Mac Mini
+A1347,2570,Macmini6.2,Late 2012,MD389LL/A,2.3 GHz Core i7-3615QM,4GB/16GB,1TBx2,HD Graphics 4000,2570,Catalina,Silver,Mac Mini
+A1347,2570,Macmini6.2,Late 2012,BTO,2.6 GHz Core i7-3720QM,4GB/16GB,1TBx2,HD Graphics 4000,2570,Catalina,Silver,Mac Mini
+A1347,2840,Macmini7.1,Late 2014,MGEM2LL/A,1.4 GHz Core i5-4260U,4GB/8GB/16GB,500GB,HD Graphics 5000,2840,Catalina,Silver,Mac Mini
+A1347,2840,Macmini7.1,Late 2014,MGEN2LL/A,2.6 GHz Core i5-4278U,8GB/16GB,1TB,Iris 5100,2840,Catalina,Silver,Mac Mini
+A1347,2840,Macmini7.1,Late 2014,MGEQ2LL/A,2.8 GHz Core i5-4308U,8GB/16GB,1TB,Iris 5100,2840,Catalina,Silver,Mac Mini
+A1347,2840,Macmini7.1,Late 2014,BTO,3.0 GHz Core i7-4578U,8GB/16GB,1TB,Iris 5100,2840,Catalina,Silver,Mac Mini
+A1993,3213,Macmini8.1,Late 2018,MRTR2LL/A,3.6 GHz Core i3-8100B,8GB,128GB,UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A1993,3213,Macmini8.1,Late 2018,MXNF2LL/A,3.6 GHz Core i3-8100B,8GB,256GB,UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A1993,3213,Macmini8.1,Late 2018,MRTT2LL/A,3.0 GHz Core i5-8500B,8GB,256GB,UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A1993,3213,Macmini8.1,Late 2018,MXNG2LL/A,3.0 GHz Core i5-8500B,8GB,256GB,UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A1993,3213,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,128GB,UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A1993,3213,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,256GB,UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A1993,3213,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,512GB,UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A1993,3213,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,1TB,UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A1993,3213,Macmini8.1,Late 2018,BTO,3.2 GHz Core i7-8700B,≤64GB,2TB,UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A1993,3213,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,256GB,UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A1993,3213,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,512GB,UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A1993,3213,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,1TB,UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A1993,3213,Macmini8.1,2020,BTO,3.2 GHz Core i7-8700B,≤64GB,2TB,UHD Graphics 630,3213,Sequoia,Space Gray,Mac Mini
+A2348,3569,Macmini9.1,2020,MGNR3LL/A,3.2 GHz M1 (8 Core),8GB/16GB,256GB,M1 (8 Core),3569,Sequoia,Silver,Mac Mini
+A2348,3569,Macmini9.1,2020,MGNT3LL/A,3.2 GHz M1 (8 Core),8GB/16GB,512GB,M1 (8 Core),3569,Sequoia,Silver,Mac Mini
+A2686,8003,Mac14.3,2023,MMFJ3LL/A,3.49 GHz M2 (8 Core),8GB/16GB/24GB,256GB/512GB/1TB/2TB,M1 (10 Core),8003,Sequoia,Silver,Mac Mini
+A2686,8003,Mac14.3,2023,MMFK3LL/A,3.49 GHz M2 (8 Core),8GB/16GB/24GB,256GB/512GB/1TB/2TB,M1 (10 Core),8003,Sequoia,Silver,Mac Mini
+A2816,8180,Mac14.12,2023,MNH73LL/A,3.49 GHz M2 Pro (10 Core),16GB,512GB/1TB/2TB/4TB/8TB,M2 Pro (16 Core),8180,Sequoia,Silver,Mac Mini
+A2816,8180,Mac14.12,2023,BTO,3.49 GHz M2 Pro (12 Core),16GB,512GB/1TB/2TB/4TB/8TB,M2 Pro (16 Core),8180,Sequoia,Silver,Mac Mini
+A2338,8739,Mac16.10,2024,MU9D3LL/A,4.4 GHz M4 (10 Core),16GB,256GB,M4 (10 Core),8739,Sequoia,Silver,Mac Mini
+A2338,8739,Mac16.10,2024,MU9E3LL/A,4.4 GHz M4 (10 Core),16GB,512GB,M4 (10 Core),8739,Sequoia,Silver,Mac Mini
+A2338,8739,Mac16.10,2024,MCYT4LL/A,4.4 GHz M4 (10 Core),24GB,512GB,M4 (10 Core),8739,Sequoia,Silver,Mac Mini
+A3239,8852,Mac16.11,2024,MCX44LL/A,4.5 GHz M4 Pro (12 Core),24GB/48GB/64GB,512GB/1TB/2TB/4TB/8TB,M4 Pro (16 Core),8852,Sequoia,Silver,Mac Mini
+A3239,8852,Mac16.11,2024,BTO,4.5 GHz M4 Pro (14 Core),24GB/48GB/64GB,512GB/1TB/2TB/4TB/8TB,M4 Pro (20 Core),8852,Sequoia,Silver,Mac Mini
