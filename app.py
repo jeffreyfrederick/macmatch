@@ -7,7 +7,7 @@ app = Flask(__name__)
 def load_data():
     data = []
 
-    # Load displays
+    # load displays
     with open('displays.csv', newline='', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile)
         headers = []
@@ -21,7 +21,7 @@ def load_data():
             entry['tag'] = 'MacBook Display'
             data.append(entry)
 
-    # Load macminis
+    # load macminis
     with open('macminis.csv', newline='', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile)
         headers = []
@@ -33,9 +33,34 @@ def load_data():
                 continue
             entry = dict(zip(headers, row))
             entry['tag'] = 'Mac Mini'
-            # Optionally set a 'color' to prevent key errors
-            if 'color' not in entry:
-                entry['color'] = 'Unknown'
+            data.append(entry)
+
+    # load imacs
+    with open('imacs.csv', newline='', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile)
+        headers = []
+        for row in reader:
+            if not row or row[0].startswith("!"):
+                continue
+            if not headers:
+                headers = row
+                continue
+            entry = dict(zip(headers, row))
+            entry['tag'] = 'iMac'
+            data.append(entry)
+
+    # load iphones
+    with open('iphones.csv', newline='', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile)
+        headers = []
+        for row in reader:
+            if not row or row[0].startswith("!"):
+                continue
+            if not headers:
+                headers = row
+                continue
+            entry = dict(zip(headers, row))
+            entry['tag'] = 'iPhone'
             data.append(entry)
 
     return data

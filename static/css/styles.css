@@ -14,23 +14,63 @@
 }
 
 .mac-color-space-black {
-  background-color: black;
+  background-color: rgb(32, 32, 32); /* Space black */
   color: white;
 }
 
+.mac-color-black {
+  background-color: black; /* Solid black */
+  color: white;
+}
+
+.mac-color-white {
+  background-color: white; /* Solid white */
+  color: black;
+}
+
 .mac-color-space-gray {
-  background-color: #4B4B4B;
+  background-color: #4B4B4B; /* Gray */
   color: white;
 }
 
 .mac-color-silver {
-  background-color: #C0C0C0;
+  background-color: #C0C0C0; /* Silver */
   color: black;
 }
 
 .mac-color-starlight {
   background-color: #FCE883; /* Soft yellow */
   color: black;
+}
+
+.mac-color-blue {
+  background-color: #3B82F6;  /* Bulma-compatible blue */
+  color: white;
+}
+
+.mac-color-green {
+  background-color: #0e996b;  /* Emerald green */
+  color: white;
+}
+
+.mac-color-pink {
+  background-color: #ca3d84;  /* Hot pink */
+  color: white;
+}
+
+.mac-color-yellow {
+  background-color: #FACC15;  /* Bright amber */
+  color: black;
+}
+
+.mac-color-orange {
+  background-color: #F97316;  /* Warm orange */
+  color: black;
+}
+
+.mac-color-purple {
+  background-color: #6341b1;  /* Vibrant purple */
+  color: white;
 }
 
 th {
