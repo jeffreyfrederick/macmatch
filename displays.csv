@@ -1,4 +1,4 @@
-code #,emc,part #,model id,release,model #,cpu,gpu,size,color,tag
+code#,emc,part#,model,release,model#,cpu,gpu,size,color,tag
 A1369,2469,661-5732,MacBookAir4.2,Mid 2011,MC965LL/A,1.7 GHz Core i5-2557M,HD Graphics 3000,13,Silver,MacBook Display
 A1369,2469,661-5732,MacBookAir4.2,Mid 2011,MC966LL/A,1.7 GHz Core i5-2557M,HD Graphics 3000,13,Silver,MacBook Display
 A1369,2469,661-5732,MacBookAir4.2,Mid 2011,MD226LL/A,1.8 GHz Core i7-2677M,HD Graphics 3000,13,Silver,MacBook Display
@@ -164,7 +164,7 @@ A1989/A2159,3358,661-12830,MacBookPro15.2,Mid 2019,MV962LL/A,2.4 GHz Core i5-827
 A1989/A2159,3358,661-12830,MacBookPro15.2,Mid 2019,MV972LL/A,2.4 GHz Core i5-8279U,Iris Plus Graphics 655,13,Silver,MacBook Display
 A1989/A2159,3358,661-12830,MacBookPro15.2,Mid 2019,BTO,2.8 GHz Core i7-8569U,Iris Plus Graphics 655,13,Silver,MacBook Display
 A1990,3215,661-10355,MacBookPro15.1,Mid 2018,MR932LL/A,2.2 GHz Core i7-8750H,Radeon Pro 555X,15,Space Gray,MacBook Display
-A1990,3215,661-10355,MacBookPro15.1,Mid 2018,MR942LL/A,2.6 GHz Core i7-8850H,Radeon Pro 560X/Radeon Pro Vega 16/20,15,Space Gray,MacBook Display
+A1990,3215,661-10355,MacBookPro15.1,Mid 2018,MR942LL/A,2.6 GHz Core i7-8850H,Radeon Pro 560X/Pro Vega 16/20,15,Space Gray,MacBook Display
 A1990,3215,661-10355,MacBookPro15.3,Mid 2018,BTO,2.6 GHz Core i7-8850H,Radeon Pro Vega 16/20,15,Space Gray,MacBook Display
 A1990,3215,661-10355,MacBookPro15.1,Mid 2018,BTO,2.9 GHz Core i9-8950HK,Radeon Pro Vega 16/20,15,Space Gray,MacBook Display
 A1990,3215,661-10355,MacBookPro15.3,Mid 2018,BTO,2.9 GHz Core i9-8950HK,Radeon Pro Vega 16/20,15,Space Gray,MacBook Display
@@ -174,7 +174,7 @@ A1990,3359,661-10355,MacBookPro15.1,Mid 2019,BTO,2.4 GHz Core i9-9980HK,Radeon P
 A1990,3359,661-10355,MacBookPro15.3,Mid 2019,BTO,2.4 GHz Core i9-9980HK,Radeon Pro Vega 16/20,15,Space Gray,MacBook Display
 A1990,3359,661-10355,MacBookPro15.1,Mid 2019,MV902LL/A,2.6 GHz Core i7-9750H,Radeon Pro 555X,15,Space Gray,MacBook Display
 A1990,3215,661-10356,MacBookPro15.1,Mid 2018,MR962LL/A,2.2 GHz Core i7-8750H,Radeon Pro 555X,15,Silver,MacBook Display
-A1990,3215,661-10356,MacBookPro15.1,Mid 2018,MR972LL/A,2.6 GHz Core i7-8850H,Radeon Pro 560X/Radeon Pro Vega 16/20,15,Silver,MacBook Display
+A1990,3215,661-10356,MacBookPro15.1,Mid 2018,MR972LL/A,2.6 GHz Core i7-8850H,Radeon Pro 560X/Pro Vega 16/20,15,Silver,MacBook Display
 A1990,3215,661-10356,MacBookPro15.3,Mid 2018,BTO,2.6 GHz Core i7-8850H,Radeon Pro Vega 16/20,15,Silver,MacBook Display
 A1990,3215,661-10356,MacBookPro15.1,Mid 2018,BTO,2.9 GHz Core i9-8950H,Radeon Pro Vega 16/20,15,Silver,MacBook Display
 A1990,3215,661-10356,MacBookPro15.3,Mid 2018,BTO,2.9 GHz Core i9-8950H,Radeon Pro Vega 16/20,15,Silver,MacBook Display

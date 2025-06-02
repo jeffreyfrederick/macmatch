@@ -1,4 +1,4 @@
-code #,emc,model id,release,model #,cpu,ram,storage,gpu,emc,os,color,tag
+code #,emc,model,release,model#,cpu,ram,storage,gpu,emc,os,color,tag
 A1347,2364,Macmini4.1,Mid 2010,MC270LL/A,2.4 GHz Core 2 Duo P8600,2GB/8GB/16GB,320GB/500GB,GeForce 320M,2364,High Sierra,Silver,Mac Mini
 A1347,2364,Macmini4.1,Mid 2010,BTO,2.4 GHz Core 2 Duo P8600,2GB/8GB/16GB,320GB/500GB,GeForce 320M,2364,High Sierra,Silver,Mac Mini
 A1347,2364,Macmini4.1,Mid 2010,MC438LL/A,2.4 GHz Core 2 Duo P8600,4GB/8GB/16GB,500GBx2,GeForce 320M,2364,High Sierra,Silver,Mac Mini
